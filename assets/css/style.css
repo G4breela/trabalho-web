@@ -1,0 +1,123 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh; 
+    background-color: rgba(20, 20, 20, 0.945);
+    max-height: 90vh;
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 40px; 
+    background-color: black;
+    height: 50px;
+}
+
+header > a {
+    padding: 10px;
+    color:#BC8CF2;
+    
+}
+
+nav{
+    padding: 10px;
+}
+
+nav > a{
+    margin-left: 20px;
+    color: #BC8CF2;; 
+}
+
+main{
+    padding: 0rem 5%; 
+
+}
+
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 50px;
+    height: 80vh;
+    
+}
+
+#principal {
+    flex: 1;
+    text-align: center;
+    color: #ccc;
+}
+
+#image {
+    flex: 1;
+}
+
+a{
+    color: #ccc;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+
+.home-about {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    padding-top: 50px;
+    height: 80vh;
+}
+
+#about, #education, #projects-cards, #contact {
+    width: 45%;
+    padding: 20px;
+    background-color: #333;
+    border: 1px solid #BC8CF2;
+    border-radius: 5px;
+}
+
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color:#9353d8; 
+}
+
+.article {
+    margin: 10px 0;
+}
+
+h3 {
+    padding-top: 5px;
+    font-size: 18px;
+    margin: 0;
+    color: #ffffffea;
+}
+
+p {
+    font-size: 16px;
+    color: #c0bfbf;
+    margin: 5px 0;
+}
+
+#projetos-img{
+    width: 500px;
+    align-items: center;
+}
+
+#icons{
+    width: 20px;
+    height: 20px;
+}
+
+.contact{
+    padding-top: 20px;
+}
+
