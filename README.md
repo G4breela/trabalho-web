@@ -16,6 +16,6 @@
 
   <h2> Projeto Finalizado ✅ </h2>
   
- <p>Link do Projeto: <a href="https://g4breela.github.io/trabalho-web/index.html">https://g4breela.github.io/trabalho-web/index.html</a></p>
+ <p>Link do Projeto: <a href="https://g4breela.github.io/trabalho-web/index.html" target="_blank">https://g4breela.github.io/trabalho-web/index.html</a></p>
 
 <p>Pretento aperfeiçoar mais o projeto futuramente!</p>
